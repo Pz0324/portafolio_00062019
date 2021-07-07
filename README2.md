@@ -25,14 +25,14 @@ Para facilitar la lectura de los elementos utilizados en nuestro código se util
 En la siguiente tabla podemos observar las abreviaturas utilizadas en el código:
 
 |  Button |btn   |
-|--- ---  |------|
+| ------- |------|
 | Imagen  |  img |
 | ------  | -----|
 |  Icono  |  ic  |
 
-## Conceptos Tecnicos
+## Conceptos Tecnicos
 
-** Implementación de interfaz gráfica **
+**Implementación de interfaz gráfica**
 
 La interfaz gráfica de nuestra aplicación consiste en un diseño amigable con el usuario, consta de una ventana de login donde el usuario inicia sesión o si no está registrado se registra, la parte de calendario donde el usuario podrá anotar tareas importantes con hora y fecha de acuerdo a cuando la necesite, un diario personal en donde podrá escribir sobre su día a día, una sección de notas rápidas y una sección de curiosidades donde podrá ver datos curiosos aleatorios, por último la parte de configuración donde podrá personalizar la aplicación de acuerdo a sus necesidades.
 
