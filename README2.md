@@ -25,9 +25,9 @@ Para facilitar la lectura de los elementos utilizados en nuestro código se util
 En la siguiente tabla podemos observar las abreviaturas utilizadas en el código:
 
 |  Button |btn   |
-| ------- |------|
+| ------- | -----|
 | Imagen  |  img |
-| ------  | -----|
+| ------- | -----|
 |  Icono  |  ic  |
 
 ## Conceptos Tecnicos
