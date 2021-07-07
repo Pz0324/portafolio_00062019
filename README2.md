@@ -25,6 +25,7 @@ Para facilitar la lectura de los elementos utilizados en nuestro código se util
 En la siguiente tabla podemos observar las abreviaturas utilizadas en el código:
 
 |  Button |btn   |
+| ------  | -----|
 | Imagen  |  img |
 |  Icono  |  ic  |
 
@@ -49,12 +50,6 @@ Todo esto realizado a través de fragmentos utilizamos los siguientes:
 * FragmentSignUp.kt
 
 
-
-
-
-
-
-
 Además contamos con archivos .kt de cada uno de ellos para la utilización del modelo viewmodel (MVVM) que es nuestro patrón de diseño utilizado:
 
 * CalendarViewModel.kt
@@ -64,4 +59,40 @@ Además contamos con archivos .kt de cada uno de ellos para la utilización del 
 * TaskViewModel.kt
 * ViewModelFactory.kt
 
+
+## Plataforma Base
+
+En la tabla siguiente se presenta las herramientas utilizadas para el proyecto:
+
+| Sistema Operativo  | Windows 10   |
+|--------------------|--------------|
+|  Tecnologias    | Android Studio  |
+|  Lenguaje       |   Kotlin        |
+|   Gestor de BD  |   Mongo Atlas   |
+
+
+
+
+# Usuarios de Prueba
+
+* Nombre: Ricardo Peña
+ - Email: ricardo17@gmail.com
+  - Contraseña: 384909
+  
+  
+* Nombre: Adonay Cardoza
+* Email: adonay90@gmail.com
+* Contraseña: 90940
+
+
+* Nombre: Paula Zepeda
+* Email: pau03@gmail.com
+* Contraseña: 123456
+
+* Nombre: Daniel morales
+* Email: daniel66@gmail.com
+* Contraseña: 859599
+
+
+# Video
 
