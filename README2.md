@@ -27,7 +27,7 @@ En la siguiente tabla podemos observar las abreviaturas utilizadas en el código
 |  Button |btn   |
 | ------  | -----|
 | Imagen  |  img |
-| ------- | -----|
+| ------  | -----|
 |  Icono  |  ic  |
 
 ## Conceptos Tecnicos
@@ -39,16 +39,16 @@ La interfaz gráfica de nuestra aplicación consiste en un diseño amigable con 
 Todo esto realizado a través de fragmentos utilizamos los siguientes:
 
 
-FragmentCalendar.kt
-FragmentCuriosity.kt
-FragmentNotes.kt
-FragmentPersonalDiary.kt
-FragmentSetting.kt
-FragmentTask.kt
-FragmentEmailRecuperation.kt
-FragmentLanding.kt
-FragmentLandingMenu.kt
-FragmentSignUp.kt
+* FragmentCalendar.kt
+* FragmentCuriosity.kt
+* FragmentNotes.kt
+* FragmentPersonalDiary.kt
+* FragmentSetting.kt
+* FragmentTask.kt
+* FragmentEmailRecuperation.kt
+* FragmentLanding.kt
+* FragmentLandingMenu.kt
+* FragmentSignUp.kt
 
 
 
@@ -59,12 +59,11 @@ FragmentSignUp.kt
 
 Además contamos con archivos .kt de cada uno de ellos para la utilización del modelo viewmodel (MVVM) que es nuestro patrón de diseño utilizado:
 
-CalendarViewModel.kt
-CuriosityViewModel.kt
-NotesViewModel.kt
-PersonalDairyViewModel.kt
-SettingsViewModel.kt
-TaskViewModel.kt
-ViewModelFactory.kt
+* CalendarViewModel.kt
+* CuriosityViewModel.kt
+* PersonalDairyViewModel.kt
+* SettingsViewModel.kt
+* TaskViewModel.kt
+* ViewModelFactory.kt
 
 
