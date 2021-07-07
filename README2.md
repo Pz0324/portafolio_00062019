@@ -27,7 +27,6 @@ En la siguiente tabla podemos observar las abreviaturas utilizadas en el código
 |  Button |btn   |
 | ------  | -----|
 | Imagen  |  img |
-| ------  | -----|
 |  Icono  |  ic  |
 
 ## Conceptos Tecnicos
